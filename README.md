@@ -4,7 +4,7 @@
 # Adithya Krishnan
 
 ### Programmer, Web Developer , Cinephile
-### Co Founder and CEO of [Cirus Lab](https://github.com/orgs/CIRUS-LAB)(A Non Profit Programming Community)
+### Co Founder and CEO of [Cirus Lab](https://github.com/orgs/CIRUS-LAB) (A Non Profit Programming Community)
 ### Find more [Instagram](https://www.instagram.com/fal3n.4ngel?utm_medium=copy_link)
 
 
