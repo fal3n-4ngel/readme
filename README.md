@@ -1,7 +1,7 @@
 
 <img src="https://github.com/fal3n-4ngel/fal3n-4ngel/blob/main/intro.jpg">
 
-##Adithya Krishnan
+## Adithya Krishnan
 
 Hey there,
   I am Adithya Krishnan, a Programmer,Web developer and a Cinephile
