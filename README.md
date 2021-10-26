@@ -3,6 +3,7 @@
 
 # Adithya Krishnan
 <img src="https://komarev.com/ghpvc/?username=fal3n-4ngel"/>
+## HITS
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/fal3n-4ngel/fal3n-4ngel)
 
 ### Programmer, Web Developer , Cinephile
