@@ -5,7 +5,6 @@
 <img src="https://komarev.com/ghpvc/?username=fal3n-4ngel"/>
 
 ### Programmer, Web Developer , Cinephile
-###  CTO [Cirus Lab](https://github.com/orgs/CIRUS-LAB) 
 ### Find more [Instagram](https://www.instagram.com/fal3n.4ngel?utm_medium=copy_link)
 
 
