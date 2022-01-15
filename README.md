@@ -4,10 +4,7 @@
 # Adithya Krishnan <img align="left" src="https://github.com/fal3n-4ngel/fal3n-4ngel/blob/main/1.gif" width="300" height="300" />
 <img src="https://komarev.com/ghpvc/?username=fal3n-4ngel"/> 
 
-
-
-### Programmer, Web Developer , Cinephile
-### Find more [Instagram](https://www.instagram.com/4di.krish?utm_medium=copy_link)
+### Human,Programmer,Cinephile
 
 
 [![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fal3n-4ngel)](https://github.com/anuraghazra/github-readme-stats)
