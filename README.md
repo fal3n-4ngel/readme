@@ -12,4 +12,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fal3n-4ngel) .   .  ![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fal3n-4ngel&theme=blue-red)
+![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fal3n-4ngel) .               .  ![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fal3n-4ngel&theme=blue-red)
