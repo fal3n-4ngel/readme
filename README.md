@@ -12,3 +12,4 @@
 
 ![Adi's github streak](https://github-readme-streak-stats.herokuapp.com/?user=fal3n-4ngel&theme=blue-green)
 
+[![Adi's github stats](https://github-readme-stats.vercel.app/api?username=fal3n-4ngel&theme=blue-green)
