@@ -11,6 +11,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fal3n-4ngel&theme=onedark&title=Commits,Stars,Issues)]
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fal3n-4ngel&theme=blue-green)
+[![Adi's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fal3n-4ngel&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
