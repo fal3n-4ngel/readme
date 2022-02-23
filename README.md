@@ -13,3 +13,5 @@
 
 
 ![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fal3n-4ngel) !-! ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fal3n-4ngel&layout=compact)
+
+<img src="https://activity-graph.herokuapp.com/graph?username=fal3n-4ngel&theme=cobalt">
