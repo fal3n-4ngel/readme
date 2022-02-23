@@ -14,4 +14,7 @@
 
 ![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fal3n-4ngel) !-! ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fal3n-4ngel&layout=compact)
 
-<img src="https://activity-graph.herokuapp.com/graph?username=fal3n-4ngel&theme=cobalt">
+
+<h2 align="center"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=	6v78mz9xixxyfnjar55x75ggg" alt="Spotify Now Playing" width="400" />
+  <align="center"><img width="100" src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif"></p>
+  </h2>
