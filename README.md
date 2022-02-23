@@ -16,5 +16,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fal3n-4ngel&layout=compact)
 
 <p align="center">
-<img width="100" src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif"></p> 
+<img width="20" src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif"></p> 
 </p>
