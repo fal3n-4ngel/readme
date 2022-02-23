@@ -12,7 +12,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fal3n-4ngel) 
-<img width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F492018328022763897%2F&psig=AOvVaw2bfqRBlCtDms8T_tK1dCqT&ust=1645696696069000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICEqIvIlfYCFQAAAAAdAAAAABAJ">
+<img width="40" src="https://dribbble.com/shots/5278414-Magic-Fox/attachments/10780594?mode=media">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fal3n-4ngel&layout=compact)
 
 <p align="center">
