@@ -5,7 +5,7 @@
 <img align="center" src="https://komarev.com/ghpvc/?username=fal3n-4ngel"/> 
 
 
-### Human/Programmer/Cinephile
+### • 𝙷𝚞𝚖𝚊𝚗 | 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛 | 𝙲𝚒𝚗𝚎𝚙𝚑𝚒𝚕𝚎.
 ![Adi's github streak](https://github-readme-streak-stats.herokuapp.com/?user=fal3n-4ngel&theme=blue-red)
 
 
