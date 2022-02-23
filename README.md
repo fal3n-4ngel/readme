@@ -11,9 +11,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fal3n-4ngel) 
-<img width="10" src="https://cdn.dribbble.com/users/1154103/screenshots/5278414/media/e2237006daaf1b9aa4a9e13c8ee16487.gif">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fal3n-4ngel&layout=compact)
+![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fal3n-4ngel) <img width="10" src="https://cdn.dribbble.com/users/1154103/screenshots/5278414/media/e2237006daaf1b9aa4a9e13c8ee16487.gif"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fal3n-4ngel&layout=compact)
 
 <p align="center">
 <img width="100" src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif">
