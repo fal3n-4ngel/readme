@@ -6,7 +6,6 @@
 
 
 ### • 𝙷𝚞𝚖𝚊𝚗 | 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛 | 𝙲𝚒𝚗𝚎𝚙𝚑𝚒𝚕𝚎.
-### First Year CSE Student @ MBCET Thiruvanathapuram. 
 ![Adi's github streak](https://github-readme-streak-stats.herokuapp.com/?user=fal3n-4ngel&theme=blue-red)
 
 
