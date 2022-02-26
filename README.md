@@ -12,6 +12,7 @@
 
 <details align="center">
   <summary>GitHub Stats 📖</summary>
+  
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=fal3n-4ngel"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fal3n-4ngel&layout=compact"/>
@@ -20,9 +21,9 @@
 
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
-<p align="center">
+  <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=fal3n-4ngel&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,MultipleOrganizationsTrophy"/>
-</p>
+  </p>
 </details>
 
 <p align="center">
