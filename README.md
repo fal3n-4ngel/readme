@@ -48,7 +48,7 @@
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=fal3n-4ngel&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Organizations"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=fal3n-4ngel&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Organizations,AncientUser"/>
   </p>
 </details>
 
