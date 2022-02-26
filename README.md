@@ -16,7 +16,7 @@
 </p>
 
 
-### • 𝙷𝚞𝚖𝚊𝚗 | 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛 | 𝙲𝚒𝚗𝚎𝚙𝚑𝚒𝚕𝚎.
+- 🔭  I’m a B.Tech CSE freshman at MBCET TVM.
 
 - 🌱  I’m currently learning **Flutter, C, Java, CSS**
 
