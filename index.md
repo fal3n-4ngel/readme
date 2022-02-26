@@ -46,4 +46,4 @@
 </p>
 ### Support or Contact
 
-[Instagram]("https://instagram.com/4di.krish" target="_blank")
+[Instagram](https://instagram.com/4di.krish)
