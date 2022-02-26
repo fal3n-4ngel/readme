@@ -24,7 +24,7 @@
 
 - 🚀  How to reach me  [4di.krish](https://www.instagram.com/4di.krish/)
 
-- ⚡ Fun fact: **I am NOT FUNNY**
+- ⚡ Fun fact: **I am NOT THAT FUNNY**
 
 
 ![Adi's github streak](https://github-readme-streak-stats.herokuapp.com/?user=fal3n-4ngel&theme=blue-red)
