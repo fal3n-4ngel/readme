@@ -44,6 +44,10 @@
 <p align="center">
 <img width="100" src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif">
 </p>
+
 ### Support or Contact
 
 [Instagram](https://instagram.com/4di.krish)
+<a href="https://instagram.com/4di.krish" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-4di.krish-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
