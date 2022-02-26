@@ -2,17 +2,7 @@
 
 # Adithya Krishnan 
 <img src="https://komarev.com/ghpvc/?username=fal3n-4ngel"/> 
-<p  style="background:blue">
-  <a href="https://instagram.com/4di.krish" target="_blank">
- <img  src="https://img.shields.io/badge/-4di.krish-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://twitter.com/fal3n_4ngel" target="_blank">
- <img  src="https://img.shields.io/badge/-fal3n_4ngel-05122A?style=flat&logo=twitter" alt="youtube"/>
-</a>
-  <a href="https://open.spotify.com/user/6v78mz9xixxyfnjar55x75ggg" target="_blank">
- <img src="https://img.shields.io/badge/-Adi-05122A?style=flat&logo=spotify" alt="twitch"/>
-</a>
-</p>
+
 - 🔭  I’m a B.Tech CSE freshman at MBCET TVM.
 
 - 🌱  I’m currently learning **Flutter, C, Java, CSS**
