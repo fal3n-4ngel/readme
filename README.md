@@ -22,7 +22,7 @@
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=fal3n-4ngel&title=MultiLanguage,Commits,PullRequest,Stars,Repositories,AncientAccountTrophy"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=fal3n-4ngel&title=MultiLanguage,Commits,PullRequest,Stars,Repositories,AncientAccountTrophy,MultipleOrganizationsTrophy,LongTimeAccountTrophy"/>
 </p>
 </details>
 
