@@ -1,7 +1,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-# Adithya Krishnan <img align="left" src="https://github.com/fal3n-4ngel/fal3n-4ngel/blob/main/4.gif" width="350" height="470" />
+# Adithya Krishnan <img align="left" src="https://github.com/fal3n-4ngel/fal3n-4ngel/blob/main/4.gif" width="350" height="500" />
 <img align="center" src="https://komarev.com/ghpvc/?username=fal3n-4ngel"/> 
 
 ### • 𝙷𝚞𝚖𝚊𝚗 | 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛 | 𝙲𝚒𝚗𝚎𝚙𝚑𝚒𝚕𝚎.
