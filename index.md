@@ -45,4 +45,5 @@
 <img width="100" src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif">
 </p>
 ### Support or Contact
-[Instagram]<a href="https://instagram.com/4di.krish" target="_blank">
+
+[Instagram]("https://instagram.com/4di.krish" target="_blank")
