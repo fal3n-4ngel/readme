@@ -43,7 +43,7 @@
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=fal3n-4ngelrank=S,AAA,AA,A,B"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=fal3n-4ngelrank=S,AAA,B"/>
   </p>
 </details>
 
