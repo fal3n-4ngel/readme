@@ -14,8 +14,8 @@
 <details align="center">
   <summary>GitHub Stats 📖</summary>
   <p align="center">
-    ![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fal3n-4ngel) 
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fal3n-4ngel&layout=compact)
+    <img src="https://github-readme-stats.vercel.app/api?username=fal3n-4ngel"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fal3n-4ngel&layout=compact"/>
     </p>
 </details>
 
