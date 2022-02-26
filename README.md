@@ -13,7 +13,15 @@
 
 ![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fal3n-4ngel) <img width="10" src="https://media1.giphy.corterm/mediatyer/3hrtyo7WIx7urV838kHFzW/giphy.gif">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fal3n-4ngel&layout=compact)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=fal3n-4ngel&title=MultiLanguage,Commits,PullRequest,Stars,Repositories)
+
+<details align="center">
+  <summary>GitHub Trophies 🏆</summary>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=fal3n-4ngel&title=MultiLanguage,Commits,PullRequest,Stars,Repositories"/>
+  </a>
+</p>
+</details>
 
 <p align="center">
 <img width="100" src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif">
