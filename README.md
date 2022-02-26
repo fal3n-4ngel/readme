@@ -13,7 +13,10 @@
 
 <details align="center">
   <summary>GitHub Stats 📖</summary>
-![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fal3n-4ngel) <img width="10" src="https://media1.giphy.corterm/mediatyer/3hrtyo7WIx7urV838kHFzW/giphy.gif">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fal3n-4ngel&layout=compact)
+  <p align="center">
+    ![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fal3n-4ngel) 
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fal3n-4ngel&layout=compact)
+    </p>
 </details>
 
 <details align="center">
