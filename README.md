@@ -35,6 +35,18 @@
   </p>
 </details>
 
+<p align="center" style="background:blue">
+  <a href="https://instagram.com/4di.krish" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-birobirobiro-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://twitter.com/fal3n_4ngel" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-birobirobiro-05122A?style=flat&logo=twitter" alt="youtube"/>
+</a>
+  <a href="https://twitch.com/birobirobiro" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-birobirobiro-05122A?style=flat&logo=spotify" alt="twitch"/>
+</a>
+</p>
+
 <p align="center">
 <img width="100" src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif">
 </p>
