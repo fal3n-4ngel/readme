@@ -18,7 +18,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fal3n-4ngel&layout=compact"/>
     </p>
 </details>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
