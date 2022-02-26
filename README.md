@@ -37,13 +37,13 @@
 
 <p align="center" style="background:blue">
   <a href="https://instagram.com/4di.krish" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-birobirobiro-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-4di.krish-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://twitter.com/fal3n_4ngel" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-birobirobiro-05122A?style=flat&logo=twitter" alt="youtube"/>
+ <img align="center" src="https://img.shields.io/badge/-fal3n_4ngel-05122A?style=flat&logo=twitter" alt="youtube"/>
 </a>
   <a href="https://twitch.com/birobirobiro" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-birobirobiro-05122A?style=flat&logo=spotify" alt="twitch"/>
+ <img align="center" src="https://img.shields.io/badge/-Adi-05122A?style=flat&logo=spotify" alt="twitch"/>
 </a>
 </p>
 
