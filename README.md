@@ -14,7 +14,7 @@
 ![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fal3n-4ngel) <img width="10" src="https://media1.giphy.corterm/mediatyer/3hrtyo7WIx7urV838kHFzW/giphy.gif">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fal3n-4ngel&layout=compact)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fal3n-4ngel" alt="fal3n-4ngel" /></a> </p>
+https://github-profile-trophy.vercel.app/?username=ryo-ma&title=MultiLanguage,Commits,PullRequest,Stars,Repositories
 <p align="center">
 <img width="100" src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif">
 </p>
