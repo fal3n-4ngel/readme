@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# Adithya Krishnan <img align="left" src="https://github.com/fal3n-4ngel/fal3n-4ngel/blob/gh-pages/4.gif" width="300" height="400" />
+# Adithya Krishnan 
 <img align="center" src="https://komarev.com/ghpvc/?username=fal3n-4ngel"/> 
 <p align="left" style="background:blue">
   <a href="https://instagram.com/4di.krish" target="_blank">
