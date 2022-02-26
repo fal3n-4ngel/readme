@@ -10,7 +10,7 @@
 <a href="https://twitter.com/fal3n_4ngel" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-fal3n_4ngel-05122A?style=flat&logo=twitter" alt="youtube"/>
 </a>
-  <a href="https://twitch.com/birobirobiro" target="_blank">
+  <a href="https://open.spotify.com/user/6v78mz9xixxyfnjar55x75ggg" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Adi-05122A?style=flat&logo=spotify" alt="twitch"/>
 </a>
 </p>
