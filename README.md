@@ -42,7 +42,7 @@
 </details>
 
 # Contact Me.
-<p align="left" style="background:blue">
+<p align="center" style="background:blue">
   <a href="https://instagram.com/4di.krish" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-4di.krish-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
