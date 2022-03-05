@@ -42,7 +42,7 @@
 </details>
 </p>
 <p align="center">
-<h1>Contact Me.</h1>
+<h3>Contact Me.</h3>
 </p>
 <p align="center" style="background:blue">
   <a href="https://instagram.com/4di.krish" target="_blank">
