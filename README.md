@@ -41,7 +41,7 @@
   </p>
 </details>
 <p align="center">
-# Contact Me.
+Contact Me.
 </p>
 <p align="center" style="background:blue">
   <a href="https://instagram.com/4di.krish" target="_blank">
