@@ -40,8 +40,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=fal3n-4ngel&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Organizations,AncientUser,LongTimeUser,"/>
   </p>
 </details>
-
+<p align="center">
 # Contact Me.
+</p>
 <p align="center" style="background:blue">
   <a href="https://instagram.com/4di.krish" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-4di.krish-05122A?style=flat&logo=instagram" alt="instagram"/>
