@@ -60,7 +60,7 @@
  <img align="center" src="https://img.shields.io/badge/-Adi-05122A?style=flat&logo=spotify" alt="spotify"/>
 </a>
  <a href="https://developers.google.com/profile/u/Adithyakrishnan" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Adithya Krishnan-05122A?style=flat&logo=google-developer" alt="google"/>
+ <img align="center" src="https://img.shields.io/badge/-Adithya Krishnan-05122A?style=flat&logo=gdsc" alt="google"/>
 </a>
 
 
