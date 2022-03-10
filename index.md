@@ -54,14 +54,14 @@
  <img align="center" src="https://img.shields.io/badge/-4di.krish-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://twitter.com/fal3n_4ngel" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-fal3n_4ngel-05122A?style=flat&logo=twitter" alt="youtube"/>
+ <img align="center" src="https://img.shields.io/badge/-fal3n_4ngel-05122A?style=flat&logo=twitter" alt="twitter"/>
 </a>
  <a href="https://open.spotify.com/user/6v78mz9xixxyfnjar55x75ggg" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Adi-05122A?style=flat&logo=spotify" alt="twitch"/>
+ <img align="center" src="https://img.shields.io/badge/-Adi-05122A?style=flat&logo=spotify" alt="spotify"/>
 </a>
 </a>
  <a href="https://developers.google.com/profile/u/Adithyakrishnan" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Adi-05122A?style=flat&logo=google" alt="twitch"/>
+ <img align="center" src="https://img.shields.io/badge/-Adithya Krishnan-05122A?style=flat&logo=google" alt="google"/>
 </a>
 
 
