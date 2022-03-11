@@ -44,9 +44,9 @@
 </details>
 
 
-<p align="center">
-<img width="100" src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif">
-</p>
+
+<img align='center' width="100" src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif">
+
 
 ### Support or Contact
 <a href="https://github.com/fal3n-4ngel/" target="_blank">
