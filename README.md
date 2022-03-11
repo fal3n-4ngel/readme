@@ -55,8 +55,7 @@
  <img align="center" src="https://img.shields.io/badge/-Adi-05122A?style=flat&logo=spotify" alt="twitch"/>
 </a>
 </p>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+       
 <p align="center">
 <img width="100" src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif">
 </p>
