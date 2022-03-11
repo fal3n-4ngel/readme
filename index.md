@@ -1,7 +1,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# Adithya Krishnan <img align="right" width=400 src="https://github.com/fal3n-4ngel/fal3n-4ngel/blob/main/1.png">
+# Adithya Krishnan <img align="right" width=400 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F2243549-Fox-Vector&psig=AOvVaw2TzSgcNZOYOUhqF1ShgSPi&ust=1647058670869000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIir0--ZvfYCFQAAAAAdAAAAABAO">
 <img src="https://komarev.com/ghpvc/?username=fal3n-4ngel"/> 
 
 
