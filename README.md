@@ -55,7 +55,9 @@
  <img align="center" src="https://img.shields.io/badge/-Adi-05122A?style=flat&logo=spotify" alt="twitch"/>
 </a>
 </p>
-       
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fal3n-4ngel" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/fal3n-4ngel?trk=profile-badge">Adithya Krishnan</a></div>
+
 <p align="center">
 <img width="100" src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif">
 </p>
