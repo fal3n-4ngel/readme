@@ -3,6 +3,10 @@
 
 # Adithya Krishnan 
 <img src="https://komarev.com/ghpvc/?username=fal3n-4ngel"/> 
+<p align="right">
+<img width="500" src="https://github.com/fal3n-4ngel/fal3n-4ngel/blob/gh-pages/logo.png">
+</p>
+
 
 - 🔭  I’m a B.Tech CSE freshman at MBCET TVM.
 
