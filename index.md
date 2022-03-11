@@ -42,11 +42,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=fal3n-4ngel&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Organizations,AncientUser,LongTimeUser,"/>
   </p>
 </details>
-
-
-
+<p align="center">
 <img align='center' width="100" src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif">
-
+</p>
 
 ### Support or Contact
 <a href="https://github.com/fal3n-4ngel/" target="_blank">
