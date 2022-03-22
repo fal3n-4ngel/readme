@@ -17,3 +17,4 @@ jobs:
           filename: metrics.plugin.achievements.svg
           base: ""
           plugin_achievements: yes
+          plugin_achievements_only: polyglot,forker,worker,developer,influencer,inspirer
