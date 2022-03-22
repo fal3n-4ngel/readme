@@ -11,7 +11,7 @@
 
 - 💬  Ask me about **Python🐍, Movies🍿, Anime🎭**
 
-- 🚀  How to reach me  [4di.krish](https://www.instagram.com/4di.krish/)
+- 🚀  How to reach me  [4di.krish](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 - ⚡ Fun fact: **I am NOT FUNNY**
 
