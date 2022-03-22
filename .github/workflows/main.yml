@@ -17,7 +17,3 @@ jobs:
           filename: metrics.plugin.achievements.svg
           base: ""
           plugin_achievements: yes
-          plugin_achievements_only: vpolyglot, stargazer, sponsor, deployer, member, maintainer, developer,scripter, packager, explorer, infographile, manager
-
-
-  
