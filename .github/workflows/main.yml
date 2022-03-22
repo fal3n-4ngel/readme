@@ -14,11 +14,10 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.plugin.achievements.svg
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: vpolyglot, stargazer, sponsor, deployer, member, maintainer, developer,scripter, packager, explorer, infographile, manager
 
-with:
-  filename: metrics.plugin.achievements.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_achievements: yes
-  plugin_achievements_only: vpolyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-    scripter, packager, explorer, infographile, manager
+
+  
