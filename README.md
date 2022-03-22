@@ -36,9 +36,10 @@
 </details>
 
 <details align="center">
-  <summary>GitHub Trophies 🏆</summary>
+  <summary>GitHub Trophies And Achievements🏆</summary>
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=fal3n-4ngel&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Organizations,AncientUser,LongTimeUser,"/>
+    <img src="https://github.com/fal3n-4ngel/fal3n-4ngel/blob/main/metrics.plugin.achievements.svg"/>
   </p>
 </details>
 </p>
