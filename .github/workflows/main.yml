@@ -18,4 +18,3 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_only: polyglot,forker,worker,developer,influencer,inspirer
-          plugin_achievements_display: compact
