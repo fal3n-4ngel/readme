@@ -61,6 +61,7 @@
   </a>
 </p>
 
+![Metrics](/github-metrics.svg)
 
 <p align="center">
 <img width="100" src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif">
