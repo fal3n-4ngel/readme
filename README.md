@@ -23,7 +23,7 @@
   <summary>User Stats 📖</summary>
   
   <p align="center">
-    ![Metrics](/github-metrics.svg)
+    <img src="https://github.com/fal3n-4ngel/fal3n-4ngel/blob/main/github-metrics.svg"/>
     </p>
 </details>
 
