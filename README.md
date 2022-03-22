@@ -44,9 +44,8 @@
 <p align="center">
 <h2 align='center'>Contact Me.</h2>
 </p>
-<p align="center">
-  
-<imgc src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white(https://twitter.com/fal3n_4ngel'>
+<p align="center"> 
+<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white(https://twitter.com/fal3n_4ngel'>
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fal3n-4ngel/)
 [![Github badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fal3n-4ngel/)
 [![Google badge](https://img.shields.io/badge/google%20developers-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://g.dev/fal3n-4ngel)
