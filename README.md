@@ -25,7 +25,7 @@
   <summary>GitHub Stats 📖</summary>
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=fal3n-4ngel&count_private=true&cache_seconds=1800"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=fal3n-4ngel&count_private=true&include_all_commits=true&cache_seconds=1800"/>
     </p>
 </details>
 <details align="center">
