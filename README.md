@@ -11,7 +11,7 @@
 
 - 💬  Ask me about **Python🐍, Movies🍿, Anime🎭**
 
-- 🚀  How to reach me - adiadithyakrishnan@gmail.com (Pls Don't Spam 🥲)
+- 🚀  How to reach me [4di.krish](www.instagram.com/4di.krish)
 
 - ⚡ Fun fact: **I am NOT FUNNY**
 
