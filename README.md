@@ -5,7 +5,7 @@
 <img align="center" src="https://komarev.com/ghpvc/?username=fal3n-4ngel"/> 
 
 
-- 🔭  I’m a B.Tech CSE ```freshman``` at MBCET TVM.
+- 🔭  I’m a B.Tech CSE freshman at MBCET TVM.
 
 - 🌱  I’m currently learning **Flutter, C, Java, CSS**
 
