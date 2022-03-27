@@ -46,7 +46,7 @@
 </details>
 </p>
 <p align="center">
-<h2 align='center'>Contact Me</h2>
+<h2 align='center'>Social</h2>
 </p>
 <p align="center"> 
   <a href="https://twitter.com/fal3n_4ngel" target="_blank">
