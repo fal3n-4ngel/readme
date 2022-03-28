@@ -1,5 +1,3 @@
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 # Adithya Krishnan 
 <img align="center" src="https://komarev.com/ghpvc/?username=fal3n-4ngel"/> 
@@ -46,7 +44,7 @@
 </details>
 </p>
 <p align="center">
-<h2 align='center'>Social</h2>
+<h2 align='center'> Find Me On </h2>
 </p>
 <p align="center"> 
   <a href="https://twitter.com/fal3n_4ngel" target="_blank">
