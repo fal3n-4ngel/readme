@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 # Adithya Krishnan 
 <img align="center" src="https://komarev.com/ghpvc/?username=fal3n-4ngel"/> 
-
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fal3n-4ngel&theme=github-dark-blue">
 
 - 🔭  I’m a B.Tech CSE freshman at MBCET TVM.
 
@@ -14,7 +14,7 @@
 - ⚡ Fun fact: **I am NOT FUNNY**
 
 
-![Adi's github streak](https://github-readme-streak-stats.herokuapp.com/?user=fal3n-4ngel&theme=github-dark-blue)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ## My Tech Stack
