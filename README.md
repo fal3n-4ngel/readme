@@ -9,7 +9,7 @@
 
 - 💬  Ask me about **Python🐍, Movies🍿, Anime🎭**
 
-- 🚀  How to reach me [4di.krish](www.instagram.com/4di.krish)
+- 🚀  How to reach me [4di.krish](www.instagram.com/fal3n.4ngel)
 
 - ⚡ Fun fact: **I am NOT FUNNY**
 
