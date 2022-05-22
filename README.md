@@ -9,7 +9,7 @@
 
 - 💬  Ask me about **Python🐍, Movies🍿, Anime🎭**
 
-- 🚀  How to reach me [website](https://fal3n-4ngel.github.io/)
+- 🚀  How to reach [me](https://fal3n-4ngel.github.io/)
 
 - ⚡ Fun fact: **I am NOT FUNNY**
 
