@@ -37,12 +37,10 @@
 <details align="center">
   <summary>GitHub Trophies And Achievements🏆</summary>
   <p align="center">
-    
     <img src="https://github-profile-trophy.vercel.app/?username=fal3n-4ngel&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Organizations,AncientUser,LongTimeUser,"/>
-    
   </p>
 </details>
-</p>
+
 <p align="center">
 <h2 align='center'> Find Me On </h2>
 </p>
