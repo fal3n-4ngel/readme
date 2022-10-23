@@ -7,7 +7,7 @@
 
 - 🔭  I’m a B.Tech CSE freshman at MBCET TVM.
 
-- 🌱  I’m currently learning **Cloud🛐, JS**
+- 🌱  I’m currently learning ** JS**
 
 - 💬  Ask me about **Python🐍, Flutter , Compose N Anime🎭**
 
