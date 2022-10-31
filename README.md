@@ -7,10 +7,6 @@
 
 - 🔭  I’m a B.Tech CSE freshman at MBCET TVM.
 
-- 🌱  I’m currently learning **JS,Jetpack Compose**
-
-- 💬  Ask me about **Python🐍, Flutter , Compose N Anime🎭**
-
 - 🚀  How to reach [me](https://fal3n-4ngel.github.io/)
 
 - ⚡ Fun fact: **I am NOT FUNNY**
