@@ -5,9 +5,9 @@
 
 
 
-- 🔭  I’m a B.Tech CSE freshman at MBCET TVM.
+- 🔭  I’m a **B.Tech in CSE** sophomore at Mar Baselios College Of Engineering and Technology TVM.
 
-- ⚡ I do **Flutter n Jetpack Compose.**
+- ⚡ I do **Flutter n Jetpack Compose.** and **Firebase n MongoDB**
 
 - 💫 Currently Learning **Firebase ,Cloud APIs ,and to write cleaner codes { he he }**
 
