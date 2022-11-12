@@ -9,7 +9,7 @@
 
 - ⚡ I do **Flutter n Jetpack Compose.**
 
-- 💫 Currently Learning **Firebase,Cloud APIs,React**
+- 💫 Currently Learning **Firebase ,Cloud APIs ,and to write cleaner codes( he he )**
 
 <p></p>
 
