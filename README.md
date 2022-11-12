@@ -7,8 +7,6 @@
 
 - 🔭  I’m a B.Tech CSE freshman at MBCET TVM.
 
-- 🚀  How to reach [me](https://fal3n-4ngel.github.io/)
-
 - ⚡ I do **Flutter n Jetpack Compose.**
 
 - 💫 Currently Learning **Firebase,Cloud APIs,React**
