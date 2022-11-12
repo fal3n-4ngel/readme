@@ -9,9 +9,9 @@
 
 - 🚀  How to reach [me](https://fal3n-4ngel.github.io/)
 
-- ⚡ Full Stack ***Flutter*** Developer
+- ⚡ I do **Flutter n Jetpack Compose.**
 
-- 💫 Currently Learning ***Cloud APIs,React***
+- 💫 Currently Learning **Firebase,Cloud APIs,React**
 
 <p></p>
 
