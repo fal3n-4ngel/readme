@@ -26,12 +26,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=fal3n-4ngel&count_private=true&show_icons=true&cache_seconds=1800"/>
     </p>
 </details>
-<details align="center">
-  <summary>Top Languages ⚡</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fal3n-4ngel&layout=compact"/>
-    </p>
-</details>
+
 
 <details align="center">
   <summary>GitHub Trophies And Achievements🏆</summary>
