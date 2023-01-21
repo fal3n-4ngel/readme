@@ -7,9 +7,9 @@
 
 - 🔭  I’m a **B.Tech in CSE** sophomore at MBCET.
 
-- ⚡ I do **Flutter n Jetpack Compose.** and **Firebase n MongoDB**
+- ⚡ I **Code**
 
-- 💫 Currently Learning **Firebase ,Cloud APIs**
+- 💫 Currently Learning **a lotta things**
 
 <p></p>
 
