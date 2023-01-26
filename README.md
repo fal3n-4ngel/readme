@@ -3,11 +3,9 @@
 
 # Adithya Krishnan <img align="right" src="https://github.com/fal3n-4ngel/fal3n-4ngel/blob/main/gig.gif" />
 
-
-
 - 🔭  I’m a **B.Tech in CSE** sophomore at MBCET.
 
-- ⚡ I **Code**
+- ⚡ I **like to Code**
 
 - 💫 Currently Learning **a lotta things**
 
