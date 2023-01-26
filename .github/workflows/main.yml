@@ -1,23 +1,11 @@
-name: Metrics
-on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
-  workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          plugin_anilist_user: 'Fal3nx4ngel'
-          filename: metrics.plugin.anilist.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_anilist: yes
-          plugin_anilist_medias: anime,manga
-          plugin_anilist_sections: favorites, watching,reading,characters
-          plugin_anilist_limit: 5
-          plugin_anilist_shuffle: no
+name: Favorites manga and currently reading
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.anilist.manga.svg
+  plugin_anilist_user: 'Fal3nx4ngel'
+  token: NOT_NEEDED
+  base: ""
+  plugin_anilist: yes
+  plugin_anilist_medias: manga
+  plugin_anilist_sections: favorites,watching,reading,characters
+  plugin_anilist_limit: 1
