@@ -6,6 +6,6 @@ with:
   token: NOT_NEEDED
   base: ""
   plugin_anilist: yes
-  plugin_anilist_medias: manga
+  plugin_anilist_medias: anime,manga
   plugin_anilist_sections: favorites,watching,reading,characters
   plugin_anilist_limit: 1
