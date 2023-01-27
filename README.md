@@ -34,7 +34,7 @@
   </p>
 </details>
 <details align="center">
-  <summary>Anilist Summary 🏆</summary>
+  <summary>Anilist Summary 🚶‍♂️</summary>
   <p align="center">
     <img src="https://github.com/fal3n-4ngel/fal3n-4ngel/blob/main/metrics.plugin.anilist.svg"/>
   </p>
