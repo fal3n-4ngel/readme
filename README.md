@@ -7,7 +7,7 @@
 
 - ⚡ I **like to Code**
 
-- 💫 Currently Learning **a lotta things**
+- 💫 Currently Learning **more js stuff ig**
 
 <p></p>
 
