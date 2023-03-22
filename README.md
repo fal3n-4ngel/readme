@@ -15,7 +15,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ## My Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=flutter,firebase,js,html,css,python,c,mongodb,mysql,git,&theme=light)](https://github.com/fal3n-4ngel/)
+[![My Skills](https://skillicons.dev/icons?i=flutter,firebase,react,typescript,js,html,css,python,c,mongodb,mysql,git,&theme=light)](https://github.com/fal3n-4ngel/)
 <p align="center">
 <details align="center">
   <summary>GitHub Stats 📖</summary>
