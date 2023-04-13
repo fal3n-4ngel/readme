@@ -33,12 +33,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=fal3n-4ngel&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Organizations,AncientUser,LongTimeUser,"/>
   </p>
 </details>
-<details align="center">
-  <summary>Anilist Summary 🚶‍♂️</summary>
-  <p align="center">
-    <img src="https://github.com/fal3n-4ngel/fal3n-4ngel/blob/main/metrics.plugin.anilist.svg"/>
-  </p>
-</details>
+
 <p align="center">
 <h2 align='center'> Find Me On </h2>
 </p>
