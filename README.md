@@ -7,7 +7,7 @@
 
 - ⚡ I **like to Code**
 
-- 💫 Currently Learning **typescript**
+- 💫 Currently Learning **.NET & C#**
 
 <p></p>
 
