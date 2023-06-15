@@ -5,9 +5,9 @@
 
 - 🔭  I’m a **B.Tech in CSE** sophomore at MBCET.
 
-- ⚡ I **like to Code**
+- ⚡ I **like to Code Stuffs ( yep random stuffs,doesn't matter as long as it's fun )**
 
-- 💫 Currently Learning **.NET & C#**
+- 💫 Currently diving deep into **Js, web stuffs**
 
 <p></p>
 
