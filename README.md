@@ -15,13 +15,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ## My Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=angular,react,flutter,tailwind,firebase,dotnet,java,python,c,cs,typescript,mongodb,mysql,&theme=light)](https://github.com/fal3n-4ngel/)
+[![My Skills](https://skillicons.dev/icons?i=angular,react,next,flutter,tailwind,firebase,dotnet,java,python,c,cs,typescript,mongodb,mysql,&theme=light)](https://github.com/fal3n-4ngel/)
 <p align="center">
 <details align="center">
   <summary>GitHub Stats 📖</summary>
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=fal3n-4ngel&count_private=true&show_icons=true&cache_seconds=1800&theme=transparent"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=fal3n-4ngel&count_private=true&include_all_commits=true&show_icons=true&cache_seconds=1800&theme=transparent"/>
     </p>
 
 </details>
