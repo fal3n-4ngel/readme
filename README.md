@@ -7,7 +7,7 @@
 
 - ⚡ I **like to Code Stuffs ( yep random stuffs,doesn't matter as long as it's fun )**
 
-- 💫 Currently diving deep into **Js,and web stuffs**
+- 💫 Currently diving deep into **Js and web stuffs**
 
 <p></p>
 
