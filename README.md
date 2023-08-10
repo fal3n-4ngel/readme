@@ -21,7 +21,7 @@
   <summary>GitHub Stats 📖</summary>
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=fal3n-4ngel&count_private=true&show_icons=true&cache_seconds=10&theme=transparent&include_all_commits=true&rank_icon=github"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=fal3n-4ngel&count_private=true&show_icons=true&cache_seconds=1800&theme=transparent&include_all_commits=true&rank_icon=github"/>
     </p>
 
 </details>
@@ -30,7 +30,7 @@
 <details align="center">
   <summary>GitHub Trophies And Achievements🏆</summary>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=fal3n-4ngel&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Organizations,AncientUser,LongTimeUser,&cache_seconds=10"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=fal3n-4ngel&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Organizations,AncientUser,LongTimeUser,&cache_seconds=1800"/>
   </p>
 </details>
 
