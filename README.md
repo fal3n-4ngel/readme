@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-# Adithya Krishnan <img align="right" src="https://github.com/fal3n-4ngel/fal3n-4ngel/blob/main/gig.gif"  style="width:150px;height:200px"/>
+# Adithya Krishnan 
 
 - 🔭  I’m a **Third Year in B.Tech CSE** at MBCET.
 
