@@ -7,7 +7,7 @@
 
 - ⚡ I **like to Code Stuffs ( yep random stuffs,doesn't matter as long as it's fun )**
 
-- 💫 Currently taking a **BREAK...**
+- 💫 Currently in searcg **a will to keep living.**
 
 <p></p>
 
