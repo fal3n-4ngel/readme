@@ -7,7 +7,7 @@
 
 - ⚡ I **like to Code Stuffs ( yep random stuffs,doesn't matter as long as it's fun )**
 
-- 💫 Currently in search of **a will to keep living.**
+- 💫 Currently trying to **stay alive**
 
 <p></p>
 
