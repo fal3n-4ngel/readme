@@ -1,19 +1,20 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 
 # Adithya Krishnan 
 
 - 🔭  I’m a **Third Year in B.Tech CSE** at MBCET.
 
-- ⚡ I **like to Code Stuffs ( yep random stuffs,doesn't matter as long as it's fun )**
+- ⚡ I like to **code , random stuffs as long as they r fun**
 
-- 💫 Currently trying to **stay alive**
+- 💫 Currently learning more on **web animations and stuff** 
 
 <p></p>
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 ## My Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=next,angular,react,flutter,tailwind,firebase,dotnet,java,python,c,cs,typescript,mongodb,mysql,&theme=light)](https://github.com/fal3n-4ngel/)
 <p align="center">
@@ -31,7 +32,7 @@
   <summary>GitHub Trophies And Achievements🏆</summary>
   
   <p align="center">
-    <img  align="center" src="https://github-profile-trophy.vercel.app/?username=fal3n-4ngel&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Organizations&cache_seconds=10"/>
+    <img  align="center" src="https://github-profile-trophy.vercel.app/?username=fal3n-4ngel&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Organizations&cache_seconds=1800"/>
   </p>
 </details>
 </p>
