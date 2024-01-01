@@ -27,13 +27,14 @@
 </details>
 
 
-<details align="center">
+<details align="center" >
   <summary>GitHub Trophies And Achievements🏆</summary>
+  
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=fal3n-4ngel&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Organizations,AncientUser,LongTimeUser,&cache_seconds=18000"/>
+    <img  align="center" src="https://github-profile-trophy.vercel.app/?username=fal3n-4ngel&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Organizations&cache_seconds=10"/>
   </p>
 </details>
-
+</p>
 <p align="center">
 <h2 align='center'> Find Me On </h2>
 </p>
