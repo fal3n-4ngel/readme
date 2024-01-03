@@ -17,25 +17,12 @@
 
 ## My Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=next,angular,react,flutter,tailwind,firebase,dotnet,java,python,c,cs,typescript,mongodb,mysql,&theme=light)](https://github.com/fal3n-4ngel/)
-<p align="center">
-<details align="center">
-  <summary>GitHub Stats 📖</summary>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=fal3n-4ngel&count_private=true&show_icons=true&cache_seconds=18000&theme=transparent&include_all_commits=true&rank_icon=github"/>
-    </p>
 
-</details>
+## Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=fal3n-4ngel)](https://git.io/streak-stats)
 
-
-<details align="center" >
-  <summary>GitHub Trophies And Achievements🏆</summary>
-  
-  <p align="center">
-    <img  align="center" src="https://github-profile-trophy.vercel.app/?username=fal3n-4ngel&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Organizations&cache_seconds=1800"/>
-  </p>
-</details>
-</p>
+ ![Adi's Github Stats](https://github-readme-stats.vercel.app/api?username=fal3n-4ngel&count_private=true&show_icons=true&cache_seconds=18000&theme=transparent&include_all_commits=true)
+ 
 <p align="center">
 <h2 align='center'> Find Me On </h2>
 </p>
