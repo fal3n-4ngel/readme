@@ -19,7 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=next,angular,react,flutter,tailwind,firebase,dotnet,java,python,c,cs,typescript,mongodb,mysql,&theme=light)](https://github.com/fal3n-4ngel/)
 
 ## Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=fal3n-4ngel)](https://git.io/streak-stats)
+
 
  ![Adi's Github Stats](https://github-readme-stats.vercel.app/api?username=fal3n-4ngel&count_private=true&show_icons=true)
 
