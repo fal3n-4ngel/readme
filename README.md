@@ -9,10 +9,6 @@
 
 - 💫 Currently learning more on **web animations and stuff** 
 
-<p></p>
-
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ## My Tech Stack
@@ -20,9 +16,7 @@
 
 ## Stats
 
-
  ![Adi's Github Stats](https://github-readme-stats.vercel.app/api?username=fal3n-4ngel&count_private=true&show_icons=true)
-
 
 <p align="center">
 <h2 align='center'> Find Me On </h2>
