@@ -34,9 +34,8 @@
   />
 </p>
  </a> 
-</div>
 
-<p align="center"> 
+ <p align="center"> 
   <a href="https://twitter.com/fal3n_4ngel" target="_blank">
   <img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' width="5%">
   </a>
@@ -52,3 +51,6 @@
   <img src='https://img.shields.io/badge/google%20developers-3DDC84?style=for-the-badge&logo=android&logoColor=white' width="10%">
   </a>
 </p>
+</div>
+
+
