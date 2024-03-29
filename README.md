@@ -5,7 +5,7 @@
   align="right"
 />
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=1000&color=A5F7F7&center=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=+Hey+Yo%2C+;I'm+Adi%2C+a+tech+wizard+with+a+mystical+touch+%E2%98%86" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=1000&color=A5F7F7&center=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=+Hey+Yo%2C+;I'm+Adi%2C+a+tech+wizard+with+a+mystical+touch+%E2%98%86" alt="Typing SVG" />
 </div>
 
  
