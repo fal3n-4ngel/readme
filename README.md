@@ -1,13 +1,17 @@
-<div  >
+<div>
+ 
 <img
   src="https://github.com/fal3n-4ngel/fal3n-4ngel/assets/79042374/208f02cd-5f83-4104-a500-fce210b5016c"
   width="20%"
   align="right"
 />
+ 
+   <a href="https://github.com/fal3n-4ngel/resume">
+   
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=1000&color=A5F7F7&center=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=+Hey+Yo%2C+;I'm+Adi%2C+a+tech+wizard+with+a+mystical+touch+%E2%98%86" alt="Typing SVG" />
 </div>
-
+ </a>
  
   
 ```
