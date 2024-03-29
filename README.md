@@ -2,7 +2,7 @@
  
 <img
   src="https://github.com/fal3n-4ngel/fal3n-4ngel/assets/79042374/208f02cd-5f83-4104-a500-fce210b5016c"
-  width="17%"
+  width="19%"
   height="90%"
   align="right"
 />
