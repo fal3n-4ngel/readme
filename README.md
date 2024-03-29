@@ -2,9 +2,7 @@
 
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&color=F72C77&multiline=true&random=false&width=600&height=100&lines=+Hey+Yo%2C+;I'm+Adi%2C+a+tech+wizard+with+a+mystical+touch+%E2%98%86" alt="Typing SVG" />
-</div>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&color=F72C77&center=true&multiline=true&random=false&width=600&height=100&lines=+Hey+Yo%2C+;I'm+Adi%2C+a+tech+wizard+with+a+mystical+touch+%E2%98%86" alt="Typing SVG" />
 <pre>
     💼 Third Year BTech in CSE @ MBCET 
     💻 Full Stack Developer | Cinephile
