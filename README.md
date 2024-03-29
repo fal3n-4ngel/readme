@@ -2,7 +2,8 @@
  
 <img
   src="https://github.com/fal3n-4ngel/fal3n-4ngel/assets/79042374/208f02cd-5f83-4104-a500-fce210b5016c"
-  width="20%"
+  width="17%"
+  height="90%"
   align="right"
 />
  
@@ -13,13 +14,17 @@
 </div>
 
  </a> 
-  
-```
+ <div width="50%">
+
+  ```
     💼 Third Year BTech in CSE @ MBCET 
     💻 Full Stack Developer | Cinephile
     ⚡ Codes anything as long it's fun
     💫 Anime • Music • Code • Sleep 
 ```
+ </div>
+  
+
 
 <a href="https://github.com/fal3n-4ngel/resume">
 <p align="center">
