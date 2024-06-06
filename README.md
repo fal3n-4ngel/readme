@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-<img src="https://github.com/fal3n-4ngel/resume/assets/79042374/bf40291b-970f-4c7a-98f0-4e71ec8e8bea" align="right" width="20%"/>
+
 
 <div>
     
@@ -47,7 +47,7 @@
 <p align="center">
 <img
     width="200"
-    src="https://github.com/fal3n-4ngel/fal3n-4ngel/assets/79042374/c5927e7a-d8fa-4eea-8b83-3f69724a0944"
+    src="https://github.com/fal3n-4ngel/fal3n-4ngel/blob/main/gig.gif"
   />
 </p>
 
