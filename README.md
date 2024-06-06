@@ -46,8 +46,8 @@
 
 <p align="center">
 <img
-    width="200"
-    src="https://github.com/fal3n-4ngel/fal3n-4ngel/blob/main/gig.gif"
+    width="100"
+    src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif"
   />
 </p>
 
