@@ -9,7 +9,7 @@
 ```
     💼 Third Year BTech in CSE @ MBCET 
     💻 Full Stack Developer | Cinephile
-    ⚡  Codes anything as long it's fun
+    ⚡ Codes anything as long it's fun
     💫 Anime • Music • Code • Sleep 
 ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
