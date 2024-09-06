@@ -7,7 +7,7 @@
 # Adithya Krishnan 
 
 ```
-    💼 Third Year BTech in CSE @ MBCET 
+    💼 Final Year BTech in CSE @ MBCET 
     💻 Full Stack Developer | Cinephile
     🐍 Codes anything as long it's fun
     💫 Anime • Music • Code • Sleep 
